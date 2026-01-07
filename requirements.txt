@@ -1,0 +1,24 @@
+# Core dependencies
+python-dotenv==1.0.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# LLM and AI
+openai==1.3.8
+
+# Data generation and processing
+faker==20.1.0
+numpy==1.24.3
+scipy==1.11.4
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+
+# Logging and monitoring
+tqdm==4.66.1
+
+# Development (optional)
+pytest==7.4.2
+black==23.11.0
+flake8==6.1.0
