@@ -277,13 +277,4 @@ Edit `src/config.py` to modify:
 - [ ] Performance metrics generation
 - [ ] Export to other formats (PostgreSQL, MongoDB)
 
-## License
 
-This project is provided as-is for educational and research purposes.
-
-## Support
-
-For issues or questions:
-1. Check the Troubleshooting section
-2. Review the METHODOLOGY.md for implementation details
-3. Examine `schema.sql` for data structure
